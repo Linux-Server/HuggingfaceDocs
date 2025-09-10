@@ -1,0 +1,2 @@
+### TRL (Transformers Reinforcement Learning)
+ - TRL is a comprehensive library for post-training foundation models using techniques like Supervised Fine-Tuning (SFT), Group Relative Policy Optimization (GRPO), Direct Preference Optimization (DPO).
